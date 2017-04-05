@@ -1,14 +1,14 @@
-# Lab 7 - *Canvas*
+# Lab 7 - Canvas
 
 
-Time spent: **8** hours spent in total
+Time spent: 7 hours spent in total
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/wm1Ekxa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/8svGXZG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -18,7 +18,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright [2017] [Prashant Bhandari]
+Copyright [2017] [Suraj Upreti]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
